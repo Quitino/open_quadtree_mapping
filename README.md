@@ -1,4 +1,6 @@
 # QuadtreeMapping
+
+[泡泡推荐词](https://mp.weixin.qq.com/s?__biz=MzI5MTM1MTQwMw==&mid=2247504716&idx=1&sn=e3240518473c2c2350af03eb538601cb&chksm=ec136d48db64e45eba464d1ccf08c648e4a535a81d7d5a5316dd05b7e3343895229591c8f196&mpshare=1&scene=1&srcid=0814SjrLksNhnnOLkTxAjLPX&sharer_sharetime=1565763366279&sharer_shareid=662e33bcf39b24da66575a9f1c3f9ab8&pass_ticket=F%2FDcQUFoziFQRIZO5nFqbGSWQROwfTXyyFj%2B3FTug77yGQBpxqgMTzUTPyXdfXYW#rd)
 ## A Real-time Monocular Dense Mapping System
 
 This is a monocular dense mapping system following the IROS 2018 paper **Quadtree-accelerated Real-time Monocular Dense Mapping**, Kaixuan Wang, Wenchao Ding, Shaojie Shen.
